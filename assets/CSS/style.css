@@ -1,0 +1,113 @@
+header
+{
+    background-image: url('../img/radek-grzybowski-4FZr7coEb4E-unsplash.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    text-shadow: 0.125em 0.25em 0.125em #000f08;
+    padding: 3.125rem 3.125rem;
+    text-align: center;
+   font-family:'Dancing Script', cursive;
+   font-size: xx-large;
+    
+    
+}
+h1
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+}
+.subtitulo
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: larger;
+}
+.imagenes
+{
+    background-image: url('../img/ivan-gromov-Y3vPEuNlf7w-unsplash.jpg');
+    background-size: cover;
+    text-align: center;
+ 
+
+}
+.late
+{
+    display: inline;
+    padding: 5rem;
+    width: 300px;
+    height: 200px;
+    vertical-align: middle;
+  
+    
+    
+    
+}
+.p-late
+{
+    display:inline-block;
+    vertical-align: middle;
+    font-family:'Dancing Script', cursive;
+    color:#ffffff;
+    font-size: larger;
+
+}
+.americano
+{
+    display: inline;
+    padding: 5rem;
+    width: 300px;
+    height: 200px;
+    vertical-align: middle;
+    margin-left: 50px;
+  
+    
+    
+    
+}
+.p-americano
+{
+    display:inline-block;
+    vertical-align: middle;
+    font-family:'Dancing Script', cursive;
+    color:#ffffff;
+    font-size: larger;
+
+}
+.helado
+{
+    display: inline;
+    padding: 5rem;
+    width: 300px;
+    height: 200px;
+    vertical-align: middle;
+    margin-left: 40px;
+  
+    
+    
+    
+}
+.p-helado
+{
+    display:inline-block;
+    vertical-align: middle;
+    font-family:'Dancing Script', cursive;
+    color:#ffffff;
+    font-size: larger;
+  
+
+}
+footer
+{
+    text-align: center;
+    background-image: url('../img/radek-grzybowski-4FZr7coEb4E-unsplash.jpg');
+    color: #ffffff;
+    padding: 15px;
+    font-family:'Dancing Script', cursive;
+
+}
+
+
